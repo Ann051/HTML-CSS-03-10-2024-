@@ -1,0 +1,66 @@
+h2{
+border-style:solid;
+border-width:2px;
+background-color:pink;
+border-color:brown;
+
+/* border-radius:5px; */
+border-top-left-radius:5px;
+width:500px;
+height:200px;
+}
+
+p{
+ font-size: 20px;
+ font-family: "Edu AU VIC WA NT Dots", cursive;
+ font-weight: 980;
+ /* line-height: 50px; */
+ font-style: italic;
+/* Studied on how to import google fonts by using linking tag present within the google */
+}
+
+#p1{
+background-color:yellow;
+width:300px;
+height:500px;
+color:brown;
+margin:70px;
+border-color:brown;
+border-radius:5px;
+border-style:solid;
+padding:50px;
+}
+
+#p2{
+background-color:rgb(100,109,192);
+border-color:brown;
+border-radius:5px;
+border-style:solid;
+}
+
+#p3{
+border-color:brown;
+border-radius:5px;
+border-style:solid;
+background-color:rgba(66,176,86,0.59)
+/* we can use alpha to regulate the transpeancy */
+
+}
+
+.lol{
+border-color:brown;
+border-radius:5px;
+border-style:solid;
+background-color:#ffab23
+
+}
+
+#p5{
+border-color:brown;
+border-radius:5px;
+border-style:solid;
+background-color: gold;
+
+}
+
+

@@ -1,0 +1,50 @@
+#div1{
+border-style:solid;
+border-color:black;
+width:800px;
+height:800px;
+position:relative;
+background-color:gold;
+}
+
+img{
+width:200px ;
+height:200px;
+padding:10px;
+margin:20px;
+
+}
+
+.cat2{
+    /*position:relative;
+    top:100px;
+    left:100px*/
+
+    position:absolute;
+    top:100px;
+     left:100px
+
+}
+
+.cat3{
+position:sticky;
+top:100px;
+}
+
+.cat4{
+position:fixed;
+
+}
+
+.div2{
+background-color:orange;
+border-style:solid;
+border-color:black;
+width:800px;
+height:800px;
+height:500px;
+display:block;
+margin-top:10px;
+
+}
+
