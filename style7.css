@@ -1,3 +1,23 @@
 .div1{
 border:1px solid black;
+width:200px;
+height:200px;
+overflow:auto;
+}
+
+.item1,.item2,.item3{
+background-color:aquamarine;
+border:1px solid black;
+width:100px;
+height:100px;
+margin:2px;
+float:right;
+}
+
+.div2{
+margin-top:20px;
+border:1px solid black;
+width:500px;
+height:500px;
+overflow:auto;
 }
